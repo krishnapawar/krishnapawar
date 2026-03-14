@@ -72,10 +72,9 @@ I enjoy building **scalable web applications, real-time systems, and SaaS platfo
 ## 📦 My NPM Packages
 
 | Package | Description | Version |
-| :------ | :---------- | :-----: |
+| :------ | :---------- | :------ |
 | [kp-mysql-models](https://www.npmjs.com/package/@krishnapawar/kp-mysql-models) | 🗃️ Lightweight MySQL ORM/model layer for Node.js | ![npm](https://img.shields.io/npm/v/@krishnapawar/kp-mysql-models?style=flat-square&color=CB3837) |
 | [date-time-slots](https://www.npmjs.com/package/@krishnapawar/date-time-slots) | 📅 Smart date/time slot generator utility | ![npm](https://img.shields.io/npm/v/@krishnapawar/date-time-slots?style=flat-square&color=CB3837) |
-| [node-helper-nija](https://www.npmjs.com/package/@krishnapawar/node-helper-nija) | 🛠️ Collection of handy Node.js helper functions | ![npm](https://img.shields.io/npm/v/@krishnapawar/node-helper-nija?style=flat-square&color=CB3837) |
 | [validator-helper](https://www.npmjs.com/package/@krishnapawar/validator-helper) | ✅ Clean, chainable input validation helpers | ![npm](https://img.shields.io/npm/v/@krishnapawar/validator-helper?style=flat-square&color=CB3837) |
 
 ---
