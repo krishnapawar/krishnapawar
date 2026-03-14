@@ -13,37 +13,59 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const krishna = {
-  name     : "Krishna Pawar",
-  location : "Indore, Madhya Pradesh, India 🇮🇳",
-  role     : "Full Stack Developer",
-  company  : "Web N Soft Solution",
-  education: "M.Tech CS — Swami Vivekanand Institute (2021–2023)",
-  focus    : ["SaaS Platforms", "Real-Time Systems", "REST APIs", "Open Source"],
-  aws      : ["S3", "EC2", "RDS", "Lambda", "CloudWatch", "IAM", "Route 53"],
-  motto    : "Build fast. Ship clean. Iterate always. 🔥",
-};
-```
+Hi, I'm **Krishna Pawar**, a passionate **Backend & Full-Stack Developer** from **Indore, Madhya Pradesh, India 🇮🇳**.  
+I enjoy building **scalable web applications, real-time systems, and SaaS platforms**.
+
+- 🚀 Currently working at **Web N Soft Solution**
+- 🎓 **M.Tech in Computer Science** — Swami Vivekanand Institute *(2021–2023)*
+- 💡 Focused on **Backend Architecture, APIs, and Real-Time Applications**
+- ☁️ Experienced with **AWS Cloud Infrastructure**
+- 🔥 Love building **open-source tools and developer utilities**
 
 ---
 
 ## ⚙️ Tech Stack
 
-#### Languages & Runtimes
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+#### 🧑‍💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b5b84?style=flat-square&logo=python&logoColor=white)
 
-#### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+#### 🚀 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 #### ☁️ Cloud — AWS
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
 
-#### 🔧 Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white) ![TDD](https://img.shields.io/badge/TDD-25D366?style=flat-square&logo=checkmarx&logoColor=white)
+#### 🛠️ Tools & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+#### ⚡ Realtime & APIs
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+#### 🎨 Frontend & Styling
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### 🔧 Practices
+![TDD](https://img.shields.io/badge/TDD-Test_Driven_Development-blue?style=flat-square)
 
 ---
 
@@ -114,13 +136,11 @@ const krishna = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnapawar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapawar&layout=compact&theme=github_dark&hide_border=true&langs_count=7)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=krishnapawar&theme=github-dark-blue&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishnapawar&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapawar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapawar&layout=compact&theme=github_dark&hide_border=true&langs_count=7" height="165" width="250"/>
+  <img src="https://streak-stats.demolab.com?user=krishnapawar&theme=github-dark-blue&hide_border=true" height="165" width="400"/>
+</p>
 
 ---
 
