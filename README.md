@@ -133,17 +133,17 @@ I enjoy building **scalable web applications, real-time systems, and SaaS platfo
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
+## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=krishnapawar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" width="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapawar&layout=compact&theme=github_dark&hide_border=true&langs_count=7" height="165" width="250"/>
   <img src="https://streak-stats.demolab.com?user=krishnapawar&theme=github-dark-blue&hide_border=true" height="165" width="400"/>
-</p>
+</p> -->
 
----
 
-📍 **Indore, India** · 📧 krishnapawar90906@gmail.com · 📞 +91 7999417545
+📍 **Indore, India** · 📧 krishnapawar90906@gmail.com · 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=krishnapawar&label=Profile+Views&color=58A6FF&style=flat-square)
 
