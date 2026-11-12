@@ -79,35 +79,6 @@ I enjoy building **scalable web applications, real-time systems, and SaaS platfo
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :------ | :---------- | :---- |
-| 💅 [Vnail360](https://vnail360.com) | Multi-tenant SaaS for salons — per-vendor domains, landing pages & admin panels | `Laravel` `Vue.js` `Node.js` `MySQL` `AWS` |
-| 🏥 [ICRM Online](https://icrmonline.co.uk) | Cloud medical CRM with multi-tenant architecture for clinics & hospitals | `Laravel` `Vue.js` `Node.js` `MySQL` `AWS` |
-| 📱 [QubeGrade](https://qubegrade.com) | Android app testing platform — 14-day cycles, bug reports, performance dashboards | `Node.js` `React` `MongoDB` |
-| 🩺 [MedWire](https://www.medwire.in) | Health records bridge for hospitals, doctors, labs & radiology | `Node.js` `Express` `Angular` `MySQL` `React Native` |
-| ⚡ [Winzoo / Flywin](https://winzoo.fun) | Real-time betting games with wallet, live scores & socket engine | `Node.js` `Socket.io` `React.js` |
-| 🛍️ [RetentionBeast](https://retentionbeast.com) | eCommerce customer retention SaaS with automated workflows | `Node.js` `React` `MongoDB` |
-| 🙏 [Karo Ardaas](https://karoardaas.com) | Gurdwara trust platform — donations, events & prayers for Australian Sikh community | `Node.js` `EJS` `MySQL` `Flutter` |
-| 💍 [MMTamil](https://mmtamil.com) | Tamil matrimonial platform for Sri Lanka — horoscope, social login, payments | `Laravel` `Vue.js` `MySQL` |
-| 🏠 [Fretbox](https://fretbox.in) | Smart hostel management — communication, maintenance & digital attendance | `Laravel` `Angular` `MySQL` |
-| 🎓 [Abhyas Series](https://abhyasseries.com) | Online exam portal for CA/CS/CMA aspirants | `Laravel 8` `Blade` `MySQL` |
-| 🎬 [Pixominia](https://pixominia.com) | Video platform with AWS S3 upload/download integration | `Node.js` `Express` `React` `AWS S3` |
-
-### More projects I've worked on
-
-| Project | Tech | Link |
-| :------ | :--- | :--- |
-| Fast Test Series — LMS | Laravel 8, Blade | [fasttestseries.com](https://fasttestseries.com) |
-| Savvix — Crypto Platform | Laravel 8, Blade | [savvix.io](https://www.savvix.io) |
-| MyWebSpeaker — Event Organizer | Laravel 8, Blade | [mywebspeaker.com](https://mywebspeaker.com) |
-| Torque Motors — Online Garage | Laravel 8, Blade | [torquemotors.in](http://torquemotors.in) |
-| Ludo Color Mall — Betting Game | Core PHP, Vue.js | [ludo.colormall.in](https://ludo.colormall.in) |
-| Institute Abhyas — CA/CS Portal | Laravel 8, Blade | [institute.abhyasseries.com](https://institute.abhyasseries.com) |
-
----
-
 ## 💼 Work Experience
 
 | Period | Role | Company |
